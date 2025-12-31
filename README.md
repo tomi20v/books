@@ -8,4 +8,5 @@ books I read
 - Transformed (Marty Cagan)
 - The manager's path (Camille Fournier)
 - On Writing (Stephen King)
+- Job Moves (Bob Moesta)
 - Measure What Matters (John Doerr)

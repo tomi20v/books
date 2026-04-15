@@ -10,3 +10,5 @@ books I read
 - On Writing (Stephen King)
 - Job Moves (Bob Moesta)
 - Measure What Matters (John Doerr)
+- Radical Candor
+- The End of Average (Todd Rose)

@@ -13,4 +13,5 @@ books I read
 - Radical Candor
 - The End of Average (Todd Rose)
 - Learning to Build (Bob Moesta)
+- Peopleware (Tom DeMarco, Timothy Lister)
 - Demand Side Sales (Bob Moesta)
